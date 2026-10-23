@@ -55,3 +55,4 @@ The directions button opens a Google Maps search for “Villa Agam”. Before sh
 - GitHub Pages is static hosting. The included RSVP fallback opens an email draft; it does not silently submit or save a response.
 - Google Fonts require an internet connection. System fonts will be used if they cannot load.
 - The Google Maps link is a search, not a verified venue pin. Confirm the venue before sharing.
+
